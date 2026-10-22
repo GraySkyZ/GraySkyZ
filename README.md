@@ -87,7 +87,9 @@
       </samp>
   </p>
 </div>
-
+<div align="center">
+  <img width="44%" src="https://github.com/GraySkyZ/GraySkyZ/blob/main/Error404.svg">
+</div>
 <br>
 
 </details>
