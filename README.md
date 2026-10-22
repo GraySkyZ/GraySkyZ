@@ -15,7 +15,7 @@
 
 <div align="center" width="100%">
   
-  <img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4CF731&vCenter=true&width=435&lines=Be+Welcome+%F0%9F%91%8B%F0%9F%8F%BC;I'm+a+software+engineering+student%F0%9F%90%B2;IRAN%2C+Tehran%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)"/>
+  <img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4CF731&vCenter=true&width=435&lines=Be+Welcome+%F0%9F%91%8B%F0%9F%8F%BC;I'm+a+software+engineering+student%F0%9F%90%B2;IRAN%2C+Tehran%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>"/>
 </div>
 
 <br>
