@@ -1,7 +1,7 @@
 <br>
 
 <div align="center">
-  <img width="33%" src="https://github.com/GraySkyZ/GraySkyZ/blob/main/Cat.svg" alt="Black Cat">
+  <img width="44%" src="https://github.com/GraySkyZ/GraySkyZ/blob/main/Cat.svg" alt="Black Cat">
 </div>
 
   <div align="center">
