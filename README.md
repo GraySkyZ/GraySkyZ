@@ -89,7 +89,7 @@
   </p>
 </div>
 <div align="center">
-  <img width="33%" src="https://github.com/GraySkyZ/GraySkyZ/blob/main/Error%20404">
+  <img width="33%" src="https://github.com/GraySkyZ/GraySkyZ/blob/main/Error404.svg">
 </div>
 <br>
 
